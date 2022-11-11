@@ -2,9 +2,13 @@
 Mass Deface poc WebDAV
 
 # Command Install
-$ pkg update && pkg upgrade
-$ pkg install python
-$ pip install requests
+$ pkg update && pkg upgrade<br>
+$ pkg install python<br>
+$ pip install requests<br>
+$ pkg install git<br>
+$ git clone https://github.com/noe999x/webdav/<br>
+$ cd webdav<br>
+$ python webdav.py
 
 <img src="https://github.com/noe999x/webdav/blob/main/ss.jpg">
 <img src="https://github.com/noe999x/webdav/blob/main/h1.jpg">
